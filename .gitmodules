@@ -1,0 +1,3 @@
+[submodule "themes/dream"]
+	path = themes/dream
+	url = https://github.com/InnovationActivators/hugo-dream-plus.git
