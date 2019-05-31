@@ -29,26 +29,26 @@ enableEmoji=true
 	[params.author]
 		name = "Innovation Activators"
 		description = "Enter IA's description here."
-		avatar = "/avatar.jpg"
-		motto = "A keenaasds maker, programmer and an Instructables author."
+		avatar = "/ia.png"
+		motto = "Add IA's motto."
 
 	[params.features]
 		#Enable Twitter Emoji
-		twitterEmoji = true
+		twitterEmoji = false
 		#Enable Table of Contents
-		toc = true
+		toc = false
 		#Enable share card
-		shareCard = true
+		shareCard = false
 		#Use custom CSS
 		customCSS = ["https://cdn.rawgit.com/UtkarshVerma/hugo-dream-plus/ae11561d/exampleSite/static/css/highlight.css"]
 
 	#Tags settings
 	[params.tags]
-		enabled = true
+		enabled = false
 
 	#Categories settings
 	[params.categories]
-		enabled = true
+		enabled = false
 
 [social]
 	email = "utkarshverma@pm.me"
