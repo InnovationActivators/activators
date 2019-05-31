@@ -30,7 +30,7 @@ enableEmoji=true
 		name = "Innovation Activators"
 		description = "Enter IA's description here."
 		avatar = "/ia.png"
-		motto = "Add IA's motto."
+		motto = "Add IA's mottos."
 
 	[params.features]
 		#Enable Twitter Emoji
