@@ -10,8 +10,8 @@ disqusShortname = "dream-plus"
 ignoreFiles = ["content/404.md", "content/about.md", "content/cards/\\.*"]
 
 #Syntax highlighting
-pygmentsCodeFences = true
-pygmentsUseClasses = true
+pygmentsCodeFences = false
+pygmentsUseClasses = false
 pygmentsOptions = "linenos=table"
 
 #Enable Hugo Emoji Conversion
